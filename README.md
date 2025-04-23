@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tristangabriel
-- 👀 I’m interested in competitive programming and a bit of math. IDK what career to take honestly rn.
+- 👀 I’m interested in competitive programming. maybe take ds?
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on gabatnibac@gmail.com
